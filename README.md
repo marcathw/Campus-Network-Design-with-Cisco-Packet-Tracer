@@ -6,11 +6,16 @@ A group project using Cisco Packet Tracer to design a multi-floor campus network
 
 ## 🔧 Features
 
-- **Multi-Floor Network Topology**: Structured layout for classrooms on several building levels.
-- **Subnetting & IP Scheme**: Logical addressing for scalable and organized device management.
-- **Static Routing**: Enables reliable communication between routers and network segments.
-- **Device Configuration**: Switches, routers, and end devices assigned with realistic parameters.
-- **Connectivity Verification**: Includes successful ping tests between workstations and servers.
+- **Multi-Floor Network Topology**  
+  Structured layout for classrooms on several building levels.
+- **Subnetting & IP Scheme**
+  Logical addressing for scalable and organized device management.
+- **Static Routing**  
+  Enables reliable communication between routers and network segments.
+- **Device Configuration**
+  Switches, routers, and end devices assigned with realistic parameters.
+- **Connectivity Verification**
+  Includes successful ping tests between workstations and servers.
 
 ---
 
